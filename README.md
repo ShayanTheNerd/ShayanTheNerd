@@ -1,5 +1,5 @@
-## Hello World, I'm Shayan 👋
-<img src="hand-wave.gif">
+# Hello World, I'm Shayan <img src="hand-wave.gif" width="50" height="50">
+
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning React.Js
