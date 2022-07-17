@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World <img src="hand-wave.gif" width="40" height="40"> I'm Shayan</h1>
 <h3 align="center">A passionate, hungry-learner web developer and UI/UX designer</h3>
 
-- 🔭 I’m currently working on [some small web projects](https://github.com/Shayan-84?tab=repositories)
+- 🔭 I’m currently working on [some small web projects](https://github.com/ShayanTheNerd?tab=repositories)
 
 - 🌱 I’m currently learning **Vue.Js**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **back-end web development**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Shayan-84?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/ShayanTheNerd?tab=repositories)
 
 - 💬 Ask me about **front-end web development, UI/UX design, and more!**
 
