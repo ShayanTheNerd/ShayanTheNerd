@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Vue.Js**
 
-- 👯 I’m looking to collaborate on **full-stack web projects**
+- 👯 I’m looking to collaborate on **full-stack and front-end web projects**
 
 - 🤝 I’m looking for help with **back-end web development**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/ShayanTheNerd?tab=repositories)
+- 👨‍💻 All of my projects are available at [Real-world Projects](https://shayan-zamani.me/#portfolio) and [Sample Projects](https://github.com/ShayanTheNerd?tab=repositories)
 
 - 💬 Ask me about **front-end web development, UI/UX design, and more!**
 
 - 📫 Email me at **sh.zamani384@gmail.com**
 
-- 📄 Get to know me more at [Shayan-Zamani.me](https://shayan-zamani.me)
+- 📄 Get to know me more at [Shayan-Zamani.me](https://shayan-zamani.me/#about)
 
 - ⚡ Fun fact **You're looking at a nerd's profile ;)**
 
