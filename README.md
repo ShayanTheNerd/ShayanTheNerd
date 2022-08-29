@@ -1,5 +1,5 @@
 <h1 align="center"> Hello World <img src="hand-wave.gif" width="40" height="40"> I'm Shayan</h1>
-<h3 align="center">A passionate, hungry-learner web developer and UI/UX designer</h3>
+<h3 align="center">A passionate, hungry-learner web developer</h3>
 
 - 🔭 I’m currently working on [some small web projects](https://github.com/ShayanTheNerd?tab=repositories)
 
