@@ -1,16 +1,17 @@
 <h1 align="center"> Hello World <img src="hand-wave.gif" width="40" height="40"> I'm Shayan</h1>
 <h3 align="center">A passionate Front-End Web Developer & Optimization Enthusiast</h3>
 
-- 🔭 I’m currently studying [JavaScript.info](https://javascript.info) documentation to extend my JavaScript knowledge even more. I'm also reading about general programming concepts such as *Clean Code* , *Application Architectures* , *Programming Paradigms* , *Design Patterns* , etc.
+- 🔭 I’m currently working on a couple of new porjects and also refactoring some old ones.
+
 - 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **SPA, PWA, and full-stack web projects**
 
-- 🤝 I’m looking for help with **back-end development**
+- 🤝 I’m looking for help with **back-end development** and **APIs**
 
 - 👨‍💻 All of my projects are available at My [Website](https://shayan-zamani.me/#portfolio) and [Github Repositories](https://github.com/ShayanTheNerd?tab=repositories)
 
-- 💬 Ask me about **front-end web development , UI/UX tips , HTML-CSS-JavaScript style guides, and more!**
+- 💬 Ask me about **front-end web development , UI/UX tips , HTML-CSS-JavaScript best practices, and more!**
 
 - 📫 Email me at **sh.zamani384@gmail.com**
 
