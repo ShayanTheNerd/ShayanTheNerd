@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World <img src="hand-wave.gif" width="40" height="40"> I'm Shayan</h1>
 <h3 align="center">A passionate front-end web developer & optimization enthusiast ⚡</h3>
 
-- 👨🏻‍💻 I’m currently refactoring my personal website with **Astro**
+- 👨🏻‍💻 I’m currently working on small projects with Vue.js
 
 - 🌱 I’m looking forward to continue learning **Vue.js**
 
