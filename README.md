@@ -17,22 +17,6 @@ I'm a front-end web developer and programmer. Fluent in both Persian and English
 
 <br/>
 
-## Overview
-
--  🌱 I’m currently learning **Vue.js** and **Nuxt.js**
-
--  🤝🏼 I’m looking for help with **back-end** and **API development**
-
--  👨🏻‍💻 I’m currently working on small Vue.js projects
-
--  📁 All of my projects are available at [my personal website](https://shayan-zamani.me/#portfolio)
-
--  💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!
-
--  📫 Email me at sh.zamani384@gmail.com
-
-<br />
-
 ## Languages and Tools
 
 <div>  
@@ -53,6 +37,22 @@ I'm a front-end web developer and programmer. Fluent in both Persian and English
 </div>
 
 <br/><br/>
+
+## Overview
+
+-  🌱 I’m currently learning **Vue.js** and **Nuxt.js**
+
+-  🤝🏼 I’m looking for help with **back-end** and **API development**
+
+-  👨🏻‍💻 I’m currently working on small Vue.js projects
+
+-  📁 All of my projects are available at [my personal website](https://shayan-zamani.me/#portfolio)
+
+-  💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!
+
+-  📫 Email me at sh.zamani384@gmail.com
+
+<br />
 
 ## Github Stats
 
