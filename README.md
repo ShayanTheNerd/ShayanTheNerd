@@ -13,7 +13,9 @@
 <br />
 <br />
 
-I'm a front-end web developer and programmer. Fluent in both Persian and English, I enjoy working with diverse clients and colleagues. I'm constantly improving my skills and knowledge, and currently work as a freelance web developer; while also being open to remote positions and joining in-person teams when possible. Let's connect and bring your web projects to life!
+I'm a passionate front-end web developer and optimization enthusiast fluent in both Persian and English. While my primary goal is to consistantly improve my skills and expand my knowledge, I currently work as a freelance web developer, not only crafting seamless user experiences but also fine-tuning website performance for optimal results. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for about a year now.
+
+
 
 <br/>
 
