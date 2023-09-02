@@ -9,14 +9,15 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 
 ## 👨🏻‍💻 About Me
 <ul>
+  <li>📄 Download <a download href="./resume.pdf">my resume (PDF)</a></li>
   <li>🌱 I’m currently learning <b>Vue.js</b> and <b>Nuxt.js</b></li>
   <li>🤝🏼 I’m looking for help with back-end and API development</li>
-  <li>📁 All of my projects are available at <a href="https://shayan-zamani.me/#portfolio">the portfolio section on my personal website</a></li>
+  <li>📁 My projects are available at <a href="https://shayan-zamani.me/#portfolio">the portfolio section on my website</a></li>
   <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
 </ul>
 <br />
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <figure>
   <img src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </figure>
