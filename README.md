@@ -3,7 +3,7 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 
 ## 🛠️ Skills
 <figure>
-  <img src="https://skillicons.dev/icons?perline=17&i=xd,md,vscode,git,github,netlify,vite,html,css,sass,bootstrap,tailwind,js,jquery,alpinejs,astro,vue" />
+  <img src="https://skillicons.dev/icons?i=xd,md,vscode,git,github,netlify,vite,html,css,sass,bootstrap,tailwind,js,jquery,alpinejs,astro,vue" />
 </figure>
 <br />
 
