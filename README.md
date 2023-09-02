@@ -16,7 +16,7 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 </ul>
 <br />
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <figure>
   <img src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </figure>
