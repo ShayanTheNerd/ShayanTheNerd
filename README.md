@@ -18,9 +18,14 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 <br />
 
 ## 📊 GitHub Stats
-<figure>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</figure>
-<figure>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark&hide_border=false" />
-</figure>
+<span>
+  <figure>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark" />
+  </figure>
+</span>
+&nbsp;
+<span>
+  <figure>
+    <img src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
+  </figure>
+</span>
