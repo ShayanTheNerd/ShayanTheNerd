@@ -20,7 +20,7 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 ## 📊 GitHub Stats
 <span>
   <figure>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark&card_width=430" />
   </figure>
 </span>
 &nbsp;
