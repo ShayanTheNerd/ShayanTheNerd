@@ -15,7 +15,7 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
   <li>📁 My projects are available at <a href="https://shayan-zamani.me/#portfolio">the portfolio section on my website</a></li>
   <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
 </ul>
-<br />
+<br /> 
 
 ## 📊 GitHub Stats
 <span>
