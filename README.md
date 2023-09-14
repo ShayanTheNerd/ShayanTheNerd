@@ -26,6 +26,6 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 &nbsp;
 <span>
   <figure>
-    <img width="399" align="top" src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img width="400" align="top" src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
   </figure>
 </span>
