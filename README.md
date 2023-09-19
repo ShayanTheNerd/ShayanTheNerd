@@ -5,7 +5,7 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 <figure>
   <img src="https://skillicons.dev/icons?i=xd,md,vscode,git,github,netlify,vite,html,css,sass,bootstrap,tailwind,js,jquery,alpinejs,astro,vue" />
 </figure>
-<br /> 
+<br />
 
 ## 👨🏻‍💻 About Me
 <ul>
