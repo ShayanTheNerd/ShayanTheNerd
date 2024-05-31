@@ -1,4 +1,4 @@
-Hello there! I'm Shayan, a passionate front-end web developer, optimization enthusiast, and skilled programmer fluent in both Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, not only crafting seamless user experiences but also fine-tuning website performance for optimal results. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for over a year now.
+Hello there! I'm Shayan, a passionate front-end web developer, optimization enthusiast, and skilled programmer fluent in both Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, crafting seamless user experiences and fine-tuning website performance. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for the last two years.
 <br /><br />
 
 ## 🛠️ Skills
@@ -9,8 +9,8 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 
 ## 👨🏻‍💻 About Me
 <ul>
-  <li>📄 Download <a download href="./resume.pdf">my resume (PDF)</a></li>
-  <li>🌱 I’m currently working on some <a href="https://www.frontendmentor.io/profile/ShayanTheNerd"><b>Frontend Mentor</b></a> projects
+  <li>📄 Download <a download href="./resume.pdf">my résumé (PDF)</a></li>
+  <li>🌱 I’m currently learning Nuxt.js and testing</li>
   <li>🤝🏼 I’m looking for help with back-end and API development</li>
   <li>📁 My projects are available at <a href="https://shayan-zamani.me/#portfolio">the portfolio section on my website</a></li>
   <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
