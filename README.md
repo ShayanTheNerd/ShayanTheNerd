@@ -3,7 +3,7 @@ Hello there! I'm Shayan, a passionate front-end web developer, optimization enth
 
 ## 🛠️ Skills
 <figure>
-  <img alt="My skills" src="https://go-skill-icons.vercel.app/api/icons?i=md,vscode,git,github,netlify,vite,html,svg,css,sass,tailwind,js,ts,astro,vue,pinia,nuxtjs,storybook,graphql" />
+  <img alt="My skills" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,netlify,md,svg,html,css,pnpm,vite,sass,tailwind,js,ts,astro,vue,pinia,nuxtjs,api,graphql,storybook,vitest,cypress" />
 </figure>
 <br />
 
