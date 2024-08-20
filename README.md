@@ -1,4 +1,4 @@
-Hi there! I'm Shayan, a passionate front-end web developer and optimization enthusiast fluent in both Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, crafting seamless user experiences and fine-tuning website performance. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for the last 3 years.
+Hi there! I'm Shayan, a passionate front-end web developer and optimization enthusiast fluent in Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, crafting seamless user experiences and fine-tuning website performance. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for the last 3 years.
 <br /><br />
 
 ## 🛠️ Skills
