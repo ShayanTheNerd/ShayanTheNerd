@@ -6,16 +6,13 @@ Hi there! I'm Shayan, a passionate front-end web developer and optimization enth
 <img alt="Markdown, SVG, HTML, CSS, SCSS, JavaScript, and TypeScript" src="https://go-skill-icons.vercel.app/api/icons?i=md,svg,html,css,scss,js,ts" />
 
 #### Technologies
-<img alt="Tailwind CSS, Astro, Vue.js, and Nuxt.js" src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,astro,vue,nuxt" />
+<img alt="Tailwind CSS, Astro, Vue.js, Nuxt.js, REST APIs, and GraphQL APIs" src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,astro,vue,nuxt,api,graphql" />
 
-#### Testing
+#### Testing Libraries
 <img alt="Storybook, Vitest, Cypress, and Playwright" src="https://go-skill-icons.vercel.app/api/icons?i=storybook,vitest,cypress,playwright" />
 
 #### Tools
 <img alt="VS Code, Git, GitHub, Netlify, NPM, PNPM, and Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,netlify,npm,pnpm,vite" />
-
-#### APIs
-<img alt="REST and GraphQL" src="https://go-skill-icons.vercel.app/api/icons?i=api,graphql" />
 
 <br />
 
