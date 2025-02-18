@@ -1,40 +1,14 @@
-Hi there! I'm Shayan, a passionate front-end web developer and optimization enthusiast fluent in Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, creating seamless user experiences and fine-tuning website performance. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for the last 3 years.
-<br /><br />
+Hi there! I'm Shayan, a front-end web developer with over 3 years of experience in creating seamless user interfaces and fine-tuning website performance. I'm passionate about contributing to open-source projects, love learning new things, and enjoy sharing my knowledge with fellow developers. Currently, I’m working as a freelancer, and also at Fahoosh.
 
-## 🛠️ Skills
+## Skills
 #### Languages
-<img alt="Markdown, SVG, HTML, CSS, SCSS, JavaScript, and TypeScript" src="https://go-skill-icons.vercel.app/api/icons?i=md,svg,html,css,scss,js,ts" />
+![Markdown, SVG, HTML, CSS, SCSS, JavaScript, and TypeScript](https://go-skill-icons.vercel.app/api/icons?i=md,svg,html,css,scss,js,ts)
 
 #### Technologies
-<img alt="Tailwind CSS, Uno CSS, Astro, Vue.js, Nuxt.js, and REST APIs" src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,unocss,astro,vue,nuxt,api" />
+![Tailwind CSS, Uno CSS, Astro, Vue.js, Nuxt.js, Supabase, and REST APIs](https://go-skill-icons.vercel.app/api/icons?i=tailwind,unocss,astro,vue,nuxt,supabase,api)
 
 #### Testing Frameworks
-<img alt="Storybook, Vitest, Cypress, and Playwright" src="https://go-skill-icons.vercel.app/api/icons?i=storybook,vitest,cypress,playwright" />
+![Storybook, Vitest, Cypress, and Playwright](https://go-skill-icons.vercel.app/api/icons?i=storybook,vitest,cypress,playwright)
 
-#### Tools
-<img alt="VS Code, Git, GitHub, Netlify, NPM, PNPM, and Vite" src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,netlify,npm,vite" />
-
-<br />
-
-## 👨🏻‍💻 About Me
-<ul>
-  <li>📄 <a download href="./Shayan Zamani CV.pdf">Download my résumé (PDF)</a></li>
-  <li>🌱 I’m currently learning Nuxt.js</li>
-  <li>🤝🏼 I’m looking for help with back-end and API development</li>
-  <li>📁 My projects are available at <a href="https://shayan-zamani.me/#portfolio">the portfolio section of my website</a></li>
-  <li>💬 Ask me about front-end web development, performance improvement techniques, clean code, UX tips, and more!</li>
-</ul>
-<br />
-
-## 📊 GitHub Stats
-<span>
-  <figure>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanTheNerd&theme=dark&card_width=430" />
-  </figure>
-</span>
-&nbsp;
-<span>
-  <figure>
-    <img width="401" align="top" src="https://github-readme-stats.vercel.app/api?username=ShayanTheNerd&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
-  </figure>
-</span>
+#### Other Tools
+![VS Code, Git, GitHub, Netlify, NPM, PNPM, Bun, and Vite](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,netlify,npm,pnpm,bun,vite)
