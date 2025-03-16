@@ -1,4 +1,4 @@
-Hi there! I'm Shayan, a front-end web developer with over 3 years of experience in creating seamless user interfaces and fine-tuning website performance. I'm passionate about contributing to open-source projects, love learning new things, and enjoy sharing my knowledge with fellow developers. Currently, I’m working as a freelancer, and also at Fahoosh.
+Hi there! I'm Shayan, a front-end web developer with over 4 years of experience in creating seamless user interfaces and fine-tuning website performance. I'm passionate about contributing to open-source projects, love learning new things, and enjoy sharing my knowledge with fellow developers. Currently, I’m working as a freelancer, and also at Fahoosh.
 
 ## Skills
 #### Languages
