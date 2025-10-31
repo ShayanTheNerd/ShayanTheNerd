@@ -11,4 +11,4 @@ Hi there! I’m Shayan, a freelance front-end web developer with over 4 years of
 ![Storybook, Vitest, Cypress, and Playwright](https://go-skill-icons.vercel.app/api/icons?i=storybook,vitest,cypress,playwright)
 
 #### Other Tools
-![VS Code, Git, GitHub, GitHub Actions, Netlify, NPM, Bun, Vite, Prettier, and ESLint](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,githubactions,netlify,npm,bun,vite,prettier,eslint)
+![VS Code, Git, GitHub, GitHub Actions, Netlify, NPM, PNPM, Vite, Prettier, and ESLint](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,githubactions,netlify,npm,pnpm,vite,prettier,eslint)
