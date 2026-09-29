@@ -1,4 +1,4 @@
-Frontend developer with 5+ years of experience developing high-performance and accessible web applications. I’m passionate about contributing to open-source projects, love learning new things, and enjoy sharing knowledge with fellow developers.
+Frontend engineer with 3+ years of experience delivering web products across e-commerce, B2B SaaS, and AI-powered applications. Experienced in taking ownership of frontend features and systems through development and maintenance, improving performance, and collaborating across product, QA, and backend teams. Primary expertise in Vue/Nuxt, with additional experience across React/Next, TypeScript, automated testing, CI/CD, and AI-assisted development workflows.
 
 ## Skills
 #### Languages
