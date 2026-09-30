@@ -5,7 +5,7 @@ Frontend engineer with 3+ years of experience delivering web products across e-c
 ![Bash, Markdown, SVG, Bash, HTML, CSS, JavaScript, and TypeScript](https://go-skill-icons.vercel.app/api/icons?titles=true&i=bash,md,svg,html,css,js,ts 'Bash, Markdown, SVG, HTML, CSS, JavaScript, TypeScript')
 
 #### Technologies
-![Tailwind, Vue, Nuxt, Pinia, React, Next, TanStack ecosystem, PWAs, Node, REST API integration](https://go-skill-icons.vercel.app/api/icons?titles=true&i=tailwind,vue,nuxt,pinia,react,next,tanstack,pwa,nodejs,api 'Tailwind, Vue, Nuxt, React, Next, TanStack ecosystem, PWAs, Node, REST API integration')
+![Tailwind, Shadcn, Vue, Nuxt, Pinia, React, Next, TanStack ecosystem, PWAs, Node, REST API integration](https://go-skill-icons.vercel.app/api/icons?titles=true&i=tailwind,shadcn,vue,nuxt,pinia,react,next,tanstack,pwa,nodejs,api 'Tailwind, Shadcn, Vue, Nuxt, React, Next, TanStack ecosystem, PWAs, Node, REST API integration')
 
 #### Testing Frameworks
 ![Storybook, Vitest, Cypress, Playwright](https://go-skill-icons.vercel.app/api/icons?titles=true&i=storybook,vitest,cypress,playwright 'Storybook, Vitest, Cypress, Playwright')
